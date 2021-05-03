@@ -81,7 +81,7 @@ Við mat á verkefninu er horft til eftirfarandi (ekki tæmandi listi):
 
 Skil verkefnisins eru í tvennu lagi:
 
-- Hlutaskil, 30% af lokaeinkunn. Hér á að skila öllum íhluta klösunum þ.e.a.s. klösunum fyrir flugferð, hjólaferð, bátsferð og svo yfirklasanum. Skilist fyrir miðnætti miðvikudaginn 5. maí (ekki verður hægt að fá framlengdan frest). Einkunn fyrir þennan hluta verður gefin fyrir tímann fimmtudaginn 6. maí. Ef engu er skilað í þessum hluta eru 30% farin af lokaeinkunn.
+- Hlutaskil, 30% af lokaeinkunn. Hér á að skila öllum ferðaklösunum þ.e.a.s. klösunum fyrir flugferð, hjólaferð, bátsferð og svo yfirklasanum. Skilist fyrir miðnætti miðvikudaginn 5. maí (ekki verður hægt að fá framlengdan frest). Einkunn fyrir þennan hluta verður gefin fyrir tímann fimmtudaginn 6. maí. Ef engu er skilað í þessum hluta eru 30% farin af lokaeinkunn.
 - Lokaskil, 70% af lokaeinkunn. Skilist fyrir hádegi laugardaginn 15. maí. Ekki verður hægt að fá framlengingu á þessum tíma.
 
 ## Prófunargögn
